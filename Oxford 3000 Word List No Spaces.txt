@@ -1604,7 +1604,7 @@ healthy
 hear
 hear_from
 hearing
-hear of
+hear_of
 heart
 heat
 heating
@@ -3362,7 +3362,7 @@ swimming
 swimming_pool
 swing
 switch
-switch off
+switch_off
 swollen
 symbol
 sympathetic
@@ -3445,7 +3445,7 @@ thief
 thin
 thing
 think
-think about
+think_about
 thinking
 think_of
 think_of_as
@@ -3670,7 +3670,7 @@ use
 use
 used_1
 used_2
-used to
+used_to
 useful
 useless
 user
