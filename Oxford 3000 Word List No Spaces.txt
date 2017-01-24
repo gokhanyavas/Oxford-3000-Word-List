@@ -2126,7 +2126,7 @@ minister
 ministry
 minor
 minority
-minute 1
+minute_1
 mirror
 miss
 missing
@@ -2137,7 +2137,7 @@ mistaken
 mix
 mixed
 mixture
-mix up
+mix_up
 mobile
 mobile_phone
 model
@@ -2786,7 +2786,7 @@ relief
 religion
 religious
 rely
-rely on
+rely_on
 remain
 remaining
 remains
