@@ -1159,7 +1159,7 @@ enthusiastically
 entire
 entirely
 entitle
-entrance 1
+entrance_1
 entry
 envelope
 environment
