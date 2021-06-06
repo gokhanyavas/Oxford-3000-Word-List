@@ -339,7 +339,7 @@ betting
 between
 beyond
 bicycle
-bid_1
+bid
 big
 bike
 bill
@@ -474,8 +474,7 @@ camera
 camp
 campaign
 camping
-can_1
-can_2
+can
 cancel
 cancer
 candidate
@@ -605,8 +604,7 @@ climate
 climb
 climbing
 clock
-close_1
-close_2
+close
 closed
 closely
 closet
@@ -728,7 +726,7 @@ contact
 contain
 container
 contemporary
-content_1
+content
 contest
 context
 continent
@@ -1002,7 +1000,7 @@ divide
 division
 divorce
 divorced
-do_1
+do
 doctor
 document
 dog
@@ -1159,7 +1157,7 @@ enthusiastically
 entire
 entirely
 entitle
-entrance_1
+entrance
 entry
 envelope
 environment
@@ -1536,7 +1534,7 @@ grandson
 grant
 grass
 grateful
-grave_1
+grave
 gravely
 great
 greatly
@@ -1902,7 +1900,7 @@ lane
 language
 large
 largely
-last_1
+last
 late
 later
 latest
@@ -1915,9 +1913,9 @@ lawyer
 lay
 layer
 lazy
-lead_1
+lead
 leader
-leading_1
+leading
 leaf
 league
 lean
@@ -1945,8 +1943,7 @@ library
 licence
 license
 lid
-lie_1
-lie_2
+lie
 lie_around
 lie_down
 life
@@ -1967,8 +1964,7 @@ listen
 literature
 litre
 little
-live_1
-live_2
+live
 lively
 live_on
 live_through
@@ -2126,7 +2122,7 @@ minister
 ministry
 minor
 minority
-minute_1
+minute
 mirror
 miss
 missing
@@ -2365,7 +2361,7 @@ owe
 own
 owner
 own_up
-pace_1
+pace
 pack
 package
 packaging
@@ -2380,7 +2376,7 @@ painting
 pair
 palace
 pale
-pan_1
+pan
 panel
 pants
 paper
@@ -2423,7 +2419,7 @@ peak
 pen
 pencil
 penny
-pension_1
+pension
 people
 pepper
 per
@@ -2498,7 +2494,7 @@ plenty
 plot
 plug
 plug_in
-plus_1
+plus
 p.m.
 pocket
 poem
@@ -2600,7 +2596,7 @@ probably
 problem
 procedure
 proceed
-process_1
+process
 produce
 producer
 product
@@ -2759,7 +2755,7 @@ reflect
 reform
 refrigerator
 refusal
-refuse_1
+refuse
 regard
 regarding
 region
@@ -2861,8 +2857,7 @@ ridiculous
 riding
 right
 rightly
-ring_1
-ring_2
+ring
 ring_back
 rise
 risk
@@ -2884,7 +2879,7 @@ round
 rounded
 route
 routine
-row_1
+row
 royal
 rub
 rubber
@@ -2957,7 +2952,7 @@ seal_off
 search
 season
 seat
-second_1
+second
 secondary
 secret
 secretary
@@ -3396,8 +3391,7 @@ teach
 teacher
 teaching
 team
-tear_1
-tear_2
+tear
 tear_up
 technical
 technique
@@ -3668,8 +3662,7 @@ urgent
 us
 use
 use
-used_1
-used_2
+used
 used_to
 useful
 useless
@@ -3803,8 +3796,7 @@ willing
 willingly
 willingness
 win
-wind_1
-wind_2
+wind
 window
 wine
 wing
@@ -3839,7 +3831,7 @@ worship
 worst
 worth
 would
-wound_1
+wound
 wounded
 wrap
 wrapping
